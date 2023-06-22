@@ -20,6 +20,6 @@ public class App {
           //  System.out.println("Los numeros son iguales");
             //else
             //System.out.println("El primero es mayor que el segundo");
-        
+        sc.close();
     }
 }
